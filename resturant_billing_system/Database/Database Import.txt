@@ -1,0 +1,2 @@
+At First Create a database named r_b_s
+then import the r_b_s.sql file
